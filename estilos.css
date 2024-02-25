@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #3b3535;
+    margin: 0;
+    padding: 0;
+    margin-left: 1cm;
+    margin-right: 0,5cm;
+    background-color: #f0f0f0;
+    background: linear-gradient(to bottom, #b3aa82, #52523e);
+}
+
+
+#C {
+    background-color: #101110; 
+    border: none; 
+    color: white;  
+    padding: 10px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 10px; 
+}
+.button:hover {
+    background-color: #45a049; 
+}
+#l{
+    background-color: #0d0f0d; 
+    border: none; 
+    color: white;  
+    padding: 10px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 10px; 
+}
+.button:hover {
+    background-color: #45a049; 
+}
+.alert {
+    padding: 15px;
+    background-color: #f44336;
+    color: white;
+    margin-bottom: 15px;
+}
+input[type="number"], input[type="text"] {
+    width: 100%;
+    
+}
+.table {
+border: 2px solid #ff0000; /* Cambia el color del borde a rojo */
+}
